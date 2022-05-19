@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-19T18:11:57 IST" name="Surefire suite" finished-at="2022-05-19T18:12:59 IST" duration-ms="61973">
+    <groups>
+    </groups>
+    <test started-at="2022-05-19T18:11:57 IST" name="Surefire test" finished-at="2022-05-19T18:12:59 IST" duration-ms="61973">
+      <class name="mindtree.compre.Test1">
+        <test-method signature="test1()[pri:0, instance:mindtree.compre.Test1@5e0e82ae]" started-at="2022-05-19T18:11:57 IST" name="test1" finished-at="2022-05-19T18:12:26 IST" duration-ms="28845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- mindtree.compre.Test1 -->
+      <class name="mindtree.compre.Test3">
+        <test-method signature="test3()[pri:0, instance:mindtree.compre.Test3@6a6cb05c]" started-at="2022-05-19T18:12:44 IST" name="test3" finished-at="2022-05-19T18:12:59 IST" duration-ms="14920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- mindtree.compre.Test3 -->
+      <class name="mindtree.compre.Test2">
+        <test-method signature="Test2()[pri:0, instance:mindtree.compre.Test2@702657cc]" started-at="2022-05-19T18:12:26 IST" name="Test2" finished-at="2022-05-19T18:12:44 IST" duration-ms="18069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+      </class> <!-- mindtree.compre.Test2 -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
